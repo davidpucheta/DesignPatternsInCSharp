@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatternsInCSharp
+namespace RepositoryPattern
 {
     class Program
     {
@@ -9,6 +9,4 @@ namespace DesignPatternsInCSharp
             Console.WriteLine("Hello World!");
         }
     }
-
-
 }
